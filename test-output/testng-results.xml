@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-21T11:50:37 AST" name="Default suite" finished-at="2020-11-21T11:51:50 AST" duration-ms="73395">
+    <groups>
+    </groups>
+    <test started-at="2020-11-21T11:50:37 AST" name="Default test" finished-at="2020-11-21T11:51:50 AST" duration-ms="73395">
+      <class name="praticeselinium.Redbus">
+        <test-method is-config="true" signature="landing()[pri:0, instance:praticeselinium.Redbus@73a8da0f]" started-at="2020-11-21T11:50:37 AST" name="landing" finished-at="2020-11-21T11:51:24 AST" duration-ms="47227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- landing -->
+        <test-method signature="redbus()[pri:0, instance:praticeselinium.Redbus@73a8da0f]" started-at="2020-11-21T11:51:24 AST" name="redbus" finished-at="2020-11-21T11:51:43 AST" duration-ms="18400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- redbus -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:praticeselinium.Redbus@73a8da0f]" started-at="2020-11-21T11:51:43 AST" name="exit" finished-at="2020-11-21T11:51:50 AST" duration-ms="7565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- praticeselinium.Redbus -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
